@@ -68,7 +68,7 @@ ideal.csv
 test.csv
 ```
 
-The raw input data is not included in this repository/package unless required by the examiner or submission platform.
+The raw input data files are included in the data/raw folder for verification and reproducibility.
 
 ## How to Set Up the Project
 
