@@ -121,12 +121,6 @@ outputs/figures/deviation_plot.html
 Run:
 
 ```bash
-pytest
-```
-
-or:
-
-```bash
 python -m pytest
 ```
 
